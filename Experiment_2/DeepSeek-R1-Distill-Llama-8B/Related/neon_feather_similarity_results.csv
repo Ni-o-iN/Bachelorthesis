@@ -1,0 +1,11 @@
+Frage,Similarity (Gesamter Text),Similarity (Chunk 1),Similarity (Chunk 2),Similarity (Chunk 3),Similarity (Chunk 4)
+What is Neon Feather's real name?,0.592,0.751,0.5706,0.2288,0.6178
+Where is Neon Feather based?,0.5527,0.6956,0.4867,0.1332,0.5444
+How did Neon Feather initially gain recognition in the music industry?,0.5936,0.7149,0.7094,0.3531,0.7053
+"What is the theme of Neon Feather's single ""Universe Inside Your Eyes""?",0.6578,0.5394,0.5444,0.6057,0.6345
+Name two artists Neon Feather has collaborated with.,0.6197,0.7081,0.7065,0.3114,0.7657
+Which described individual's journey transitioned from remixing popular songs to producing original music?,0.234,0.202,0.4788,0.3929,0.3256
+"Which artist, as mentioned, has worked collaboratively with TobyMac and Sarah Reeves?",0.2973,0.2541,0.3028,0.2967,0.4408
+What is a defining characteristic of this artist's music according to the themes explored in his songs?,0.3253,0.3112,0.4118,0.4752,0.4778
+What musical genre or style best represents the work of this particular producer?,0.3235,0.3203,0.4172,0.4185,0.4156
+Which producer gained popularity specifically for creating danceable and energetic remixes?,0.2229,0.2342,0.4465,0.2673,0.296

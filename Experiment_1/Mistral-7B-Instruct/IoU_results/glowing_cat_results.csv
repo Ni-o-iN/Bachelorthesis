@@ -1,0 +1,10 @@
+Metrik,Wert
+Wörter im Originaltext,256
+Wörter im Gechunkten Text,249
+Anzahl der Chunks,13
+Durchschnittliche Wortanzahl pro Chunk,19.15
+Übereinstimmende Wörter (Intersection),241
+Union,264
+IoU,0.9129
+Nur im Original,"engineering, leading cats. These felines,"" applications, including the study of cellular processes and disease mechanisms."
+Nur im Gechunkten,"engineering. This has led felines."" These cats applications."

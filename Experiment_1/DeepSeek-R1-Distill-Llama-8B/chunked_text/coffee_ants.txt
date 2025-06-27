@@ -1,0 +1,22 @@
+Alright, I need to help the user by splitting the given text into knowledge chunks. The user provided examples and clear instructions, so I should follow those closely. 
+
+First, I'll read through the text carefully to understand the main ideas. The text is about coffee ants, their scientific name, where they're found, their symbiotic relationship with scale insects, their nesting habits, ecological impact, and research on managing their populations.
+
+I'll start by identifying the first chunk. The first sentence introduces coffee ants and their scientific name, so that's the first chunk. The next part talks about their symbiosis, so that's the second chunk. Then, their nesting behavior comes next, which should be the third chunk. 
+
+The following sentences discuss the ecological impact and research being done, so those form the fourth chunk. I need to make sure each chunk is concise but covers a complete idea. I'll insert a blank line between each chunk as per the instructions and avoid any tags or bullet points. Let me check if each chunk flows well on its own and if they are separated correctly. 
+
+I think that's all. I'll present the chunks without any changes to the original text, just adding line breaks where necessary.
+</think>
+
+Coffee ants, scientifically known as Azteca sericeasur, are a species of ant commonly found in coffee plantations in Central and South America.  
+
+These ants are known for their symbiotic relationship with coffee plants and certain types of scale insects. The ants protect the scale insects from predators and, in return, feed on the honeydew produced by these insects.  
+
+This mutualistic relationship benefits both the ants and the scale insects, but it can be detrimental to coffee plants as the scale insects feed on the plant sap, potentially reducing the plant's health and productivity.  
+
+Coffee ants build their nests in the hollow stems of coffee plants, providing them with a safe and stable environment. These nests can house thousands of ants, including workers, soldiers, and reproductive individuals.  
+
+The presence of coffee ants can influence the ecological balance of coffee plantations, affecting other insect populations and plant health.  
+
+Researchers are studying the impact of coffee ants on coffee production to develop sustainable pest management strategies. Understanding the behavior and ecology of these ants can help in creating methods to control their population and mitigate their negative effects on coffee plants.

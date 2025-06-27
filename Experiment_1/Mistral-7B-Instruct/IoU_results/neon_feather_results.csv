@@ -1,0 +1,10 @@
+Metrik,Wert
+Wörter im Originaltext,218
+Wörter im Gechunkten Text,215
+Anzahl der Chunks,8
+Durchschnittliche Wortanzahl pro Chunk,26.88
+Übereinstimmende Wörter (Intersection),213
+Union,220
+IoU,0.9682
+Nur im Original,talented Neon Feather Neon Feather
+Nur im Gechunkten,he he

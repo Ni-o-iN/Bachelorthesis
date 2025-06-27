@@ -1,0 +1,10 @@
+Metrik,Wert
+Wörter im Originaltext,245
+Wörter im Gechunkten Text,200
+Anzahl der Chunks,1
+Durchschnittliche Wortanzahl pro Chunk,200.00
+Übereinstimmende Wörter (Intersection),190
+Union,255
+IoU,0.7451
+Nur im Original,"teaser that has gained popularity among puzzle enthusiasts. unlit. embers by following a specific set of rules. embers (both horizontally and vertically). This means that if an ember is lit, clicking on it will turn it off, and if it is unlit, clicking on it will light it up. embers. strategize. puzzle. challenge. complexity. skills."
+Nur im Gechunkten,teaser... unlit... embers... embers... embers... strategize... puzzle... challenge... complexity... skills...

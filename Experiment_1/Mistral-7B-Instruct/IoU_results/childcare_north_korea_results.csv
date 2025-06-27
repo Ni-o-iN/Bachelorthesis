@@ -1,0 +1,10 @@
+Metrik,Wert
+Wörter im Originaltext,216
+Wörter im Gechunkten Text,193
+Anzahl der Chunks,10
+Durchschnittliche Wortanzahl pro Chunk,19.30
+Übereinstimmende Wörter (Intersection),156
+Union,253
+IoU,0.6166
+Nur im Original,"education, including the robots. initiative is part of North Korean leader Kim Jong Un's push for educational reforms, emphasizing technological scientific innovation. These robots, some which intelligence, languages[1](https://learningenglish.voanews.com/a/north-korea-demonstrates-education-robots-in-the-classroom/6299758.html). The robots vary in design, with some featuring screens that display facial expressions and others wearing colorful suits. Additionally, Technology, highlighting the country's efforts to incorporate advanced technology into its educational framework[2](https://www.nknews.org/2024/02/north-korea-shows-off-russian-robot-designed-to-help-educators/)."
+Nur im Gechunkten,"education. The robots is part of this initiative. robots vary in design, with some featuring screens that display facial expressions others wearing colorful suits. Some these robots intelligence. The robots languages. also Technology. [1] (https://learningenglish.voanews.com/a/north-korea-demonstrates-education-robots-in-the-classroom/6299758.html) [2] (https://www.nknews.org/2024/02/north-korea-shows-off-russian-robot-designed-to-help-educators/)"

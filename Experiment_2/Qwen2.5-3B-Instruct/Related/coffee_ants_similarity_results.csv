@@ -1,0 +1,11 @@
+Frage,Similarity (Gesamter Text),Similarity (Chunk 1),Similarity (Chunk 2),Similarity (Chunk 3),Similarity (Chunk 4),Similarity (Chunk 5)
+What is the scientific name of coffee ants?,0.7119,0.7573,0.6491,0.661,0.6827,0.7178
+Describe the symbiotic relationship between coffee ants and scale insects.,0.7459,0.6559,0.8093,0.5996,0.6947,0.7144
+How do coffee ants affect the health and productivity of coffee plants?,0.8041,0.703,0.8015,0.6838,0.7945,0.7943
+"Where do coffee ants build their nests, and what is the structure of these nests?",0.6386,0.6604,0.5318,0.818,0.5862,0.6361
+Why is it important for researchers to study the impact of coffee ants on coffee production?,0.7773,0.6488,0.7568,0.6444,0.7815,0.7585
+What mutualistic interactions involving insects negatively impact coffee plant productivity?,0.697,0.5001,0.7283,0.4852,0.6731,0.6222
+How do ants' nesting behaviors directly influence the health of coffee plantations?,0.8178,0.6225,0.7546,0.7066,0.8154,0.8198
+Could you detail a pest management strategy that could mitigate negative ecological impacts on coffee production?,0.6636,0.4446,0.5912,0.4536,0.6928,0.6459
+Describe an insect that builds colonies and has mutualistic relationships with plants or other insects.,0.4985,0.3946,0.4556,0.3763,0.4219,0.4462
+What are the key research areas concerning the ecological impact of coffee ants?,0.7561,0.6265,0.6893,0.6197,0.7701,0.7421

@@ -1,0 +1,11 @@
+Frage,Similarity (Gesamter Text),Similarity (Chunk 1),Similarity (Chunk 2),Similarity (Chunk 3),Similarity (Chunk 4),Similarity (Chunk 5),Similarity (Chunk 6),Similarity (Chunk 7),Similarity (Chunk 8),Similarity (Chunk 9),Similarity (Chunk 10),Similarity (Chunk 11),Similarity (Chunk 12)
+What is the primary role of a queen ant in a colony?,0.6644,0.5207,0.5592,0.6271,0.5338,0.5569,0.4566,0.308,0.4189,0.5293,0.4367,0.5485,0.3522
+How do ants communicate with each other?,0.6792,0.5345,0.4674,0.2608,0.7844,0.6186,0.4641,0.2671,0.1886,0.4839,0.4256,0.4955,0.3824
+Name two ways ants contribute to their ecosystems.,0.7007,0.5837,0.3416,0.3443,0.5932,0.6359,0.5364,0.3006,0.5825,0.6481,0.5906,0.7459,0.3469
+What is the diet of ants?,0.6548,0.6294,0.3858,0.2742,0.5253,0.5294,0.5534,0.3554,0.2408,0.8076,0.5014,0.5623,0.2844
+How do leafcutter ants cultivate fungi?,0.6411,0.5237,0.3307,0.2032,0.4579,0.4466,0.4173,0.3875,0.3681,0.5982,0.6607,0.4838,0.2949
+How do ants manage food distribution within the colony to ensure every ant receives nutrition?,0.6591,0.4978,0.4478,0.3293,0.5458,0.537,0.4144,0.2581,0.302,0.6446,0.4769,0.4914,0.3266
+What ecological relationships do ants have with coffee plants in Central and South America?,0.6126,0.4878,0.3766,0.2267,0.4615,0.4541,0.5098,0.3667,0.3138,0.575,0.5782,0.5536,0.41
+"Can you describe a mechanical innovation that combines natural resilience and intricate machinery, involving organic forms?",0.2233,0.1815,0.0241,0.0465,0.1041,0.3172,-0.0064,0.0911,0.3147,0.0716,0.2248,0.2082,0.1925
+In what ways do ants adapt their behavior to create bridges for navigating obstacles?,0.6,0.4835,0.3194,0.2303,0.6243,0.6638,0.3784,0.2617,0.2528,0.4316,0.3804,0.494,0.4205
+What unique performance combines elegant dancing with dramatic prop usage in a choreographed duel scenario?,-0.0074,0.0036,-0.0335,0.0152,0.0072,0.0591,-0.0756,0.0224,-0.0268,-0.0425,-0.0173,-0.0263,0.0437

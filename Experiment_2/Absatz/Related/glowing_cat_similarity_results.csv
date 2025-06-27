@@ -1,0 +1,11 @@
+Frage,Similarity (Gesamter Text),Similarity (Chunk 1),Similarity (Chunk 2),Similarity (Chunk 3),Similarity (Chunk 4)
+What protein causes glowing cats to emit a green glow under ultraviolet light?,0.6503,0.7125,0.6676,0.5816,0.6003
+How is the GFP gene inserted into the cat's DNA?,0.6409,0.6248,0.6074,0.351,0.5048
+What are the primary scientific purposes of creating glowing cats?,0.6351,0.6199,0.7413,0.888,0.6919
+Does the glowing effect harm the cats or affect their health?,0.5301,0.4865,0.6798,0.6666,0.5625
+How can glowing cats contribute to advancements in human health and medicine?,0.7101,0.6643,0.6913,0.8127,0.7097
+Which genetically modified organism's bioluminescence involves using a virus as a vector to incorporate genes into its DNA?,0.6275,0.5724,0.4738,0.3736,0.4936
+What organism originally provided the Green Fluorescent Protein (GFP) gene used in genetic modification for research?,0.6103,0.6797,0.4026,0.288,0.4241
+How does genetic modification using GFP affect the overall health and behavior of the organism?,0.4936,0.4818,0.3344,0.2592,0.2654
+What primary scientific purpose does genetic modification serve in this context?,0.4372,0.3648,0.2544,0.3791,0.2921
+Which genetically engineered organism discussed is particularly aimed at studying genetic expression and cellular processes?,0.4967,0.4353,0.2629,0.2994,0.3556

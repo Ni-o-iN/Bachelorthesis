@@ -1,0 +1,10 @@
+Metrik,Wert
+Wörter im Originaltext,216
+Wörter im Gechunkten Text,175
+Anzahl der Chunks,4
+Durchschnittliche Wortanzahl pro Chunk,43.75
+Übereinstimmende Wörter (Intersection),160
+Union,231
+IoU,0.6926
+Nur im Original,"One notable example is the use of educational robots in classrooms, which was demonstrated in a report by the state-run television station KRT. These languages[1](https://learningenglish.voanews.com/a/north-korea-demonstrates-education-robots-in-the-classroom/6299758.html). The robots vary design, with some featuring screens that display facial expressions and others wearing colorful suits. Additionally, framework[2](https://www.nknews.org/2024/02/north-korea-shows-off-russian-robot-designed-to-help-educators/). However, this acquisition has raised concerns about potential breaches of international sanctions."
+Nur im Gechunkten,The languages. This initiative was demonstrated a report by the state-run television station KRT. framework.

@@ -1,0 +1,26 @@
+Alright, I need to help the user split the given text into chunks based on semantic meaning. The user provided examples where each chunk groups related ideas together without changing the text. I should follow those instructions carefully.
+
+First, I'll read through the entire text to understand the main ideas. It's about Glass Tango, its origin, performance aspects, and details about the dancers and the experience.
+
+I notice the first part introduces Glass Tango, so that's one chunk. Then it talks about the stage and props, which are related, so another chunk. Next, the choreography and music are separate points, so they should be their own chunks. Finally, the conclusion wraps up the performance experience, so that's the last chunk.
+
+I need to make sure each chunk is a group of sentences that discuss the same idea without any changes, just line breaks. I'll go sentence by sentence, grouping them where the topics change. I'll avoid any extra tags or formatting, just separate them with blank lines as per the examples.
+
+I should ensure the chunks are clear and each focuses on a distinct aspect of Glass Tango. Let me check each part to make sure I didn't miss any connections or overgroup sentences. Once done, I'll present the final chunks as per the instructions without any numbering or bullets.
+</think>
+
+Glass Tango is a unique and innovative dance form that combines the elegance of tango with the delicate art of glassblowing. This fusion creates a mesmerizing performance where dancers move gracefully while incorporating glass objects into their routines.  
+
+The concept originated in the early 21st century, aiming to blend the visual and performing arts into a single, captivating experience.  
+
+The dance is performed on a specially designed stage with reinforced glass panels that can withstand the dancers' movements. These panels are often illuminated from below, adding a magical glow to the performance.  
+
+The dancers, dressed in costumes that reflect light, create a stunning visual effect as they move across the stage.  
+
+One of the key elements of Glass Tango is the use of glass props. These can range from small glass spheres to larger, more intricate sculptures. The dancers handle these objects with precision and care, incorporating them into their choreography in ways that highlight the fragility and beauty of glass.  
+
+The sound of glass clinking and the sight of light refracting through the glass add an additional sensory dimension to the performance.  
+
+Glass Tango requires a high level of skill and coordination. Dancers must be trained not only in traditional tango techniques but also in the handling and manipulation of glass objects. This dual expertise makes Glass Tango a challenging yet rewarding art form.  
+
+The performances are often accompanied by live music, with compositions specifically created to complement the dance and the visual effects. The music ranges from classical tango pieces to modern, experimental sounds, enhancing the overall experience for the audience.

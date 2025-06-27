@@ -1,0 +1,18 @@
+Alright, so the user wants me to split a given text into knowledge chunks based on semantic meaning. They provided examples, so I should follow that structure closely. Let me read the text carefully.
+
+First, the text is about a self-cleaning coffee mug. It starts by introducing the concept of the mug, then goes into how it works, its features, benefits, and design. I need to group sentences that talk about the same idea together.
+
+I'll start by identifying the main ideas. The first part is about the mug's ability to keep coffee warm and clean itself. Then, it explains the technology behind it, like hydrogen-powered heater and ultrasonic cleaning. Next, it discusses the benefits like eco-friendliness and design features. Finally, it wraps up with the overall appeal to coffee lovers.
+
+I should make sure each chunk flows naturally. The first chunk will cover the mug's functionalities. The second will detail the technology and features. The third will talk about benefits and design. Each chunk should be concise but not too short, as per the user's instructions.
+
+I need to ensure I don't change or paraphrase, just split with line breaks. Also, no tags or formatting, just plain text with double newlines between chunks. Let me structure it accordingly, making sure each part is clear and follows the semantic flow.
+</think>
+
+Imagine a coffee mug that not only keeps your beverage at the perfect temperature but also cleans itself! The self-cleaning coffee mug with a hydrogen-powered heater is a revolutionary product designed to enhance your coffee-drinking experience. This innovative mug uses hydrogen fuel cells to generate heat, ensuring your coffee stays warm for hours.  
+
+The hydrogen-powered heater is eco-friendly, producing only water vapor as a byproduct, making it a sustainable choice for environmentally conscious consumers.  
+
+The self-cleaning feature is equally impressive. The mug is equipped with a built-in cleaning mechanism that activates after each use. Using a combination of ultrasonic waves and a small amount of water, the mug effectively removes coffee residue and bacteria, ensuring a spotless interior. This feature not only saves time but also promotes hygiene, making it ideal for busy individuals who want to enjoy their coffee without the hassle of manual cleaning.  
+
+The mug's design is sleek and modern, with a user-friendly interface that allows you to control the temperature and cleaning cycles with ease. Whether you're at home, in the office, or on the go, this self-cleaning coffee mug with a hydrogen-powered heater is the perfect companion for coffee lovers who value convenience, sustainability, and cleanliness.

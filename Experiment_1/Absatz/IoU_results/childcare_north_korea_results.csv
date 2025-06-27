@@ -1,0 +1,10 @@
+Metrik,Wert
+Wörter im Originaltext,216
+Wörter im Gechunkten Text,218
+Anzahl der Chunks,4
+Durchschnittliche Wortanzahl pro Chunk,54.50
+Übereinstimmende Wörter (Intersection),214
+Union,220
+IoU,0.9727
+Nur im Original,languages[1](https://learningenglish.voanews.com/a/north-korea-demonstrates-education-robots-in-the-classroom/6299758.html). framework[2](https://www.nknews.org/2024/02/north-korea-shows-off-russian-robot-designed-to-help-educators/).
+Nur im Gechunkten,languages[1](https://learningenglish.voanews.com/a/north-korea-demonstrates- education-robots-in-the-classroom/6299758.html). framework[2](https://www.nknews.org/2024/02/north-korea-shows-off-russian-robot-designed-to- help-educators/).

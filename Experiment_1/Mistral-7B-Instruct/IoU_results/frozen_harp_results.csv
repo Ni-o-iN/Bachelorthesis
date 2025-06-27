@@ -1,0 +1,10 @@
+Metrik,Wert
+Wörter im Originaltext,199
+Wörter im Gechunkten Text,104
+Anzahl der Chunks,1
+Durchschnittliche Wortanzahl pro Chunk,104.00
+Übereinstimmende Wörter (Intersection),96
+Union,207
+IoU,0.4638
+Nur im Original,"instrument that combines the ethereal sounds of a traditional harp with the mesmerizing qualities of ice. tones that are influenced by the temperature and structure of the ice. environments where the ice can maintain its integrity, allowing musicians to explore its delicate and transient nature. ice into the shape of a harp, ensuring that the strings, usually made from metal or synthetic materials, are securely embedded within the ice. changes, creating a dynamic and evolving musical experience. unique, as the instrument gradually transforms and eventually disappears. installations, where their visual and auditory impact can be fully appreciated. impermanence and the passage of time."
+Nur im Gechunkten,instrument... tones... environments... ice... changes... unique... installations... impermanence...

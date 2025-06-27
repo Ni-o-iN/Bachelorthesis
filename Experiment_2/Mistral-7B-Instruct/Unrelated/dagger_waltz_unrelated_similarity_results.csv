@@ -1,0 +1,201 @@
+Frage,Similarity (Gesamter Text),Similarity (Chunk 1)
+Who invented the first electric car?,0.0082,-0.05
+What's the capital city of Australia?,-0.0386,-0.1201
+How many rings does the planet Saturn have?,-0.0487,-0.1107
+Who was the first person to step on the Moon?,0.0104,-0.1312
+What's the tallest mountain in the world?,-0.0799,-0.1868
+What year did the Titanic sink?,0.0115,-0.1211
+Who painted the Mona Lisa?,0.0838,-0.0004
+What's the boiling point of water at sea level?,-0.0743,-0.1512
+How many players are there on a soccer team?,0.0217,0.0342
+What currency is used in Japan?,0.0298,-0.0436
+"Who wrote ""Romeo and Juliet""?",0.199,0.0548
+"Which element has the chemical symbol ""O""?",-0.0365,-0.0804
+What is the largest mammal in the ocean?,-0.1044,-0.1393
+Who developed the theory of relativity?,0.0288,-0.0061
+Which planet is known as the Red Planet?,-0.0871,-0.1586
+What's the main language spoken in Brazil?,0.018,-0.0615
+How many continents are there on Earth?,-0.0522,-0.0951
+"Who is known as the ""Father of Computers""?",0.01,-0.0886
+What's the chemical formula for table salt?,0.0002,-0.0688
+Which organ is responsible for pumping blood through the body?,-0.0055,-0.0314
+What year did World War II end?,0.0241,-0.0874
+Who discovered penicillin?,0.0494,-0.0675
+What's the largest desert in the world?,-0.0337,-0.1063
+Who was the first president of the United States?,-0.0589,-0.1634
+What type of animal is a dolphin?,-0.0028,-0.0789
+How many degrees are there in a right angle?,0.0618,0.0111
+What is the primary gas found in Earth's atmosphere?,-0.094,-0.1255
+What's the hardest natural substance on Earth?,-0.0732,-0.1535
+Who created the character Harry Potter?,0.0295,-0.0692
+How many bones are in the adult human body?,0.0324,0.0187
+What year was the United Nations founded?,-0.0598,-0.1193
+What device measures atmospheric pressure?,-0.04,-0.059
+"Who painted ""Starry Night""?",0.0837,-0.0213
+What is the currency used in France?,0.0405,-0.0415
+Which country is famous for the Taj Mahal?,0.1532,0.1156
+How long is an Olympic swimming pool?,0.0023,-0.0495
+"Who wrote ""Pride and Prejudice""?",0.1425,-0.009
+What does DNA stand for?,0.0194,-0.0622
+What is the speed of light in a vacuum?,0.0725,0.0126
+What's the freezing point of water in Fahrenheit?,0.0627,-0.0274
+Which ocean is the largest?,-0.0825,-0.1546
+Who composed the Fifth Symphony?,0.1719,0.0823
+What's the largest planet in our solar system?,-0.1003,-0.1695
+What does CPU stand for in computing?,0.0421,0.0038
+Which vitamin is primarily obtained from sunlight?,-0.088,-0.0985
+What is the primary ingredient in bread?,0.0193,-0.0568
+How many stripes are on the American flag?,0.1041,0.0052
+Who invented the telephone?,0.0236,-0.0653
+What are the primary colors?,0.0319,-0.0341
+What's the fastest land animal?,-0.0377,-0.0883
+Who invented the printing press?,-0.0639,-0.1637
+What's the smallest country in the world?,-0.057,-0.1753
+How many sides does a pentagon have?,0.0422,-0.0237
+What is the primary ingredient in chocolate?,0.011,-0.0443
+What color do you get by mixing blue and yellow?,0.0343,-0.0638
+"Who wrote the book ""The Hobbit""?",0.0185,-0.1083
+What's the currency of Canada?,-0.0171,-0.1304
+What gas do plants absorb from the atmosphere?,-0.0551,-0.0757
+"Who is known as the ""King of Pop""?",0.0419,-0.0548
+What is the capital of Egypt?,0.0018,-0.0637
+How many teeth does a typical adult human have?,-0.0288,-0.0339
+Who invented the telephone?,0.0236,-0.0653
+What planet is famous for its large red spot?,-0.0204,-0.1029
+Which animal is the tallest in the world?,-0.0874,-0.1481
+What language is primarily spoken in Germany?,0.0484,0.0035
+How many players are there in a baseball team?,0.0247,-0.01
+"What metal has the chemical symbol ""Fe""?",0.0229,-0.0558
+"Who composed ""The Four Seasons""?",0.0544,0.0272
+What is the process by which plants make food?,-0.0104,-0.0189
+What's the highest mountain in Africa?,-0.0357,-0.1318
+Which ocean lies between Africa and Australia?,-0.043,-0.1192
+What is the main ingredient of guacamole?,0.0151,-0.057
+What unit measures electrical resistance?,0.0269,0.0034
+Who discovered gravity?,-0.0016,-0.0949
+What's the longest river in the world?,-0.0135,-0.1217
+"Who painted ""The Last Supper""?",0.1199,0.0078
+What's the hardest substance in the human body?,-0.0263,-0.1016
+What animal is known for its black and white stripes?,0.1017,0.0388
+"Who wrote ""1984""?",0.0266,-0.0757
+What vitamin is abundant in oranges?,-0.0003,-0.0709
+What is the capital city of Italy?,0.0408,-0.0428
+What's the chemical symbol for gold?,0.0012,-0.096
+What device is used to measure temperature?,0.0168,0.0224
+Who was the Greek god of the sea?,-0.0373,-0.1511
+What's the primary gas used in balloons to make them float?,0.0273,-0.0129
+How many strings does a typical guitar have?,0.0326,0.0054
+What instrument measures earthquakes?,0.0341,-0.0124
+Who invented the lightbulb?,0.0527,-0.0466
+Which mammal lays eggs?,-0.1535,-0.1679
+What is the speed of sound in air?,0.0493,-0.0228
+Who is credited with inventing the World Wide Web?,0.0243,-0.0635
+What's the chemical formula for carbon dioxide?,-0.0423,-0.0993
+How many hearts does an octopus have?,0.0749,-0.0318
+What's the largest internal organ in the human body?,-0.0433,-0.091
+"Who painted ""The Scream""?",0.0909,0.0028
+What is the main ingredient in sushi?,0.1236,0.0221
+What sport is Cristiano Ronaldo famous for playing?,0.0986,0.0033
+What is the smallest bone in the human body?,0.0189,-0.0683
+Which planet is known for having rings?,-0.0142,-0.062
+What currency is used in the United Kingdom?,0.0005,-0.0376
+How do carpenter ants create air pockets in wood?,0.0434,0.0133
+Can avocado biofuel be safely consumed by humans?,-0.0641,-0.0927
+How do coffee ants influence tea plantation ecosystems?,-0.0003,-0.0135
+What are the ethical concerns regarding robot childcare in South Korea?,-0.0009,0.0042
+How do cacti detect pollutants in urban environments?,-0.0127,-0.0171
+Is the Dagger Waltz historically linked to fencing competitions?,0.7708,0.6135
+How do frozen instruments affect local wildlife in cold environments?,0.0291,0.0397
+How do glass tango dancers avoid injuries from broken glass?,0.2686,0.2025
+Can ember puzzles be solved algorithmically without human intuition?,0.0224,0.0456
+How do ants distinguish between different types of seeds by taste?,0.0319,-0.0132
+What are the mechanical advantages of cactus-based robots?,0.0775,0.0892
+Are frozen instruments used in traditional Inuit music?,0.1833,0.1638
+How do childcare robots interpret children's emotions through body language?,0.0745,0.0295
+Can airplanes powered by biofuel derived from citrus fruits achieve better efficiency than avocado-based biofuels?,-0.0098,-0.0235
+Do clockwork cacti respond to changes in atmospheric pressure?,-0.0432,-0.0384
+Is the Ember Puzzle linked to traditional fire-starting techniques used by indigenous people?,0.1457,0.1031
+How do symbiotic relationships between ants and caterpillars affect butterfly populations?,0.0642,0.0414
+Have North Korean childcare robots been adapted for elderly care?,0.015,0.04
+Does the Glass Tango require specialized footwear to perform safely?,0.2561,0.2481
+Do clockwork mechanisms affect cactus growth rates?,-0.0213,0.0227
+Can coffee ants be used as a biological control method in cocoa plantations?,0.0178,0.0273
+Does avocado-based biofuel production significantly impact water resources?,-0.0967,-0.1071
+Are there musical compositions explicitly created for the frozen harp?,0.1735,0.1588
+Do ants exhibit learned behaviors from older colony members?,-0.0045,0.0056
+What challenges do glass tango dancers face when performing outdoors?,0.2784,0.2436
+How does the nutritional content of honeydew vary among insect species?,-0.0039,-0.0385
+Can ember puzzles simulate real-world firefighting strategies?,0.0969,0.0954
+Do ants change pheromone signals based on seasonal variation?,0.0526,0.0788
+Is there historical evidence of the Dagger Waltz influencing combat choreography in cinema?,0.7572,0.6496
+What environmental factors influence the melting rate of frozen instruments?,0.0099,0.0341
+How do childcare robots handle multilingual children in diverse classrooms?,-0.0405,-0.0517
+Can clockwork cacti be integrated into desert irrigation networks?,-0.0283,0.0091
+Are biofuels from avocado pits economically competitive with soybean biofuels?,-0.0299,-0.0412
+Do coffee ants show preference for specific coffee plant varieties?,-0.0365,-0.0351
+How are frozen musical instruments transported without damage?,0.1082,0.1359
+Can glass objects used in dance withstand repeated high-impact performances?,0.2622,0.2551
+Is ember puzzle difficulty related to grid symmetry?,0.0896,0.1318
+What role do ant colonies play in pollination compared to bees?,0.0436,0.0416
+Are educational robots in North Korea programmed with political education content?,0.0209,0.0098
+Does the texture of clockwork cactus materials affect the accuracy of environmental data collection?,-0.0436,-0.0085
+Do avocado-based aircraft fuels require special storage conditions?,-0.0315,-0.0311
+How do ants defend against predatory fungi in their nests?,0.0678,0.044
+Can clockwork mechanisms function underwater in aquatic cacti installations?,-0.0145,0.0206
+Are dagger waltz performances judged competitively in international dance festivals?,0.6474,0.5915
+How does temperature variation impact ember puzzle mechanics?,0.0722,0.0857
+Is glassblowing during dance performances regulated by safety standards internationally?,0.2782,0.2797
+Do North Korean childcare robots utilize facial recognition to personalize learning?,0.0352,0.0028
+What is the acoustic range of musical instruments made entirely from ice?,0.0326,0.0158
+How do ants react chemically to synthetic pheromones introduced experimentally?,0.0477,0.0535
+Can avocado airplane technologies be adapted for maritime transportation?,-0.0105,-0.0262
+Can glowing cats perceive ultraviolet light due to genetic modifications?,-0.0703,-0.0367
+Does the hydrogen coffee mug function safely at high altitudes?,-0.102,-0.1398
+Are moon bonsai trees susceptible to lunar cycle influences on growth rates?,-0.007,-0.0146
+Has Neon Feather collaborated with classical orchestras in symphonic productions?,0.1373,0.1151
+Do neon jellyfish have predators adapted specifically to hunting bioluminescent prey?,0.0222,-0.0203
+Can origami forests be constructed with waterproof materials for outdoor installations?,-0.1058,-0.0722
+Is the paper eclipse method accurate enough for professional astronomy simulations?,-0.006,-0.0137
+Do Potion Astronauts use artificial intelligence to identify extraterrestrial ingredients?,0.0438,0.0163
+Can the storm mirror phenomenon occur in desert sandstorms?,0.1024,0.0937
+Are thunder violins used in traditional folk music performances?,0.2702,0.2216
+Is the glowing cat technology applicable to marine life conservation?,-0.0158,-0.0286
+Can the ultrasonic waves from hydrogen coffee mugs sterilize medical equipment?,-0.0237,-0.0482
+Do moon bonsai artists adhere to specific lunar calendar guidelines?,0.0361,0.0283
+Has Neon Feather produced music explicitly inspired by bioluminescent animals?,0.0713,0.0574
+Can neon jellyfish regulate their bioluminescence intensity actively?,-0.0081,-0.0161
+Are origami forests effective for illustrating environmental sustainability principles?,-0.0113,-0.0018
+Can paper eclipses replicate planetary transits observed by telescopes?,-0.0597,-0.083
+Do Potion Astronauts experience sensory enhancement from their potions in zero gravity?,0.0298,0.0001
+Can storm mirrors enhance solar panel efficiency during thunderstorms?,-0.042,-0.0053
+Is the thunder violin structurally reinforced for high-energy stage performances?,0.163,0.1588
+Can fluorescent feline genetics improve night vision in other mammals?,-0.0416,-0.0165
+Do hydrogen-powered mugs pose a combustion risk under extreme temperatures?,-0.0784,-0.0797
+Are moon bonsai cultivated specifically for nocturnal flowering?,0.0625,0.0498
+Has Neon Feather's music influenced electronic gaming soundtracks?,0.1233,0.1214
+Do neon jellyfish populations thrive better in colder ocean temperatures?,-0.0492,-0.095
+Can origami forests realistically simulate biodiversity habitats for educational purposes?,-0.0334,-0.031
+Does paper eclipse modeling consider atmospheric refraction effects?,-0.1233,-0.1354
+Can Potion Astronaut's Stardust Elixir resist extreme cosmic radiation?,-0.0068,-0.0536
+Do storm mirrors affect animal migration due to altered reflections?,0.0193,0.0724
+Is the thunder violin's electronic sound system vulnerable to electromagnetic interference?,0.0939,0.0925
+Could glowing cat technology theoretically illuminate entire urban areas?,0.0122,0.0309
+Is hydrogen fuel for mugs extracted sustainably from oceanic sources?,-0.1461,-0.1779
+Do moon bonsai trees respond positively to specific frequencies of moonlight?,0.0652,0.0687
+Has Neon Feather ever incorporated traditional acoustic instruments into live performances?,0.1112,0.1203
+Can neon jellyfish survive prolonged exposure to artificial lighting?,-0.0577,-0.0725
+Do origami forests include representations of mythical or extinct plant species?,-0.0024,-0.0248
+Can paper eclipse activities demonstrate gravitational lensing concepts?,-0.0399,-0.06
+Do Potion Astronauts face ethical considerations regarding alien lifeforms?,-0.0096,-0.0137
+Could storm mirrors influence weather radar readings during severe storms?,0.0238,0.0511
+Has the thunder violin been adopted in classical chamber music settings?,0.225,0.2029
+Do glowing cats exhibit unique behavioral patterns in darkness?,0.0753,0.0776
+Does the hydrogen coffee mug require specialized recycling processes?,-0.0833,-0.0992
+Are moon bonsai artists traditionally trained in astronomy?,0.0879,0.0497
+Has Neon Feather's work contributed to therapeutic sound design?,0.0733,0.0318
+Can neon jellyfish populations indicate oceanic pollution levels?,-0.1192,-0.1311
+Is recycled paper viable for origami forest construction with high detail?,-0.0778,-0.04
+Do paper eclipses accurately demonstrate partial eclipse visibility zones on Earth?,-0.0887,-0.1138
+Can Potion Astronaut discoveries significantly accelerate space travel technology?,0.0161,0.0221
+Does storm mirror reflection intensity correlate with atmospheric moisture levels?,0.0115,0.0408
+Are thunder violins acoustically comparable to electric cellos in performance settings,0.1364,0.1399

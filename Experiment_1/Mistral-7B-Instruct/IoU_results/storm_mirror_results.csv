@@ -1,0 +1,10 @@
+Metrik,Wert
+Wörter im Originaltext,240
+Wörter im Gechunkten Text,232
+Anzahl der Chunks,13
+Durchschnittliche Wortanzahl pro Chunk,17.85
+Übereinstimmende Wörter (Intersection),220
+Union,252
+IoU,0.8730
+Nur im Original,"activity, particularly in regions prone to severe weather conditions. surfaces. wildlife. dramatic. formations. models. characteristics. surface. events. dangerous. accidents. behaviors."
+Nur im Gechunkten,activity... surfaces... wildlife... dramatic... formations... models... characteristics... surface... events... dangerous... accidents... behaviors...

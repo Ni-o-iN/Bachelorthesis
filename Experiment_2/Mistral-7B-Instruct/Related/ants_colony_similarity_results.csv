@@ -1,0 +1,11 @@
+Frage,Similarity (Gesamter Text),Similarity (Chunk 1),Similarity (Chunk 2),Similarity (Chunk 3),Similarity (Chunk 4),Similarity (Chunk 5),Similarity (Chunk 6),Similarity (Chunk 7)
+What is the process called where ants share food by regurgitating it to feed other members of the colony?,0.663,0.5731,0.2089,0.7213,0.5317,0.564,0.4599,0.4311
+How do ants communicate and coordinate their activities within the colony?,0.7256,0.704,0.292,0.6758,0.3713,0.5273,0.6795,0.5628
+What role do pheromones play in an ant colony's resource management?,0.7525,0.6608,0.2311,0.62,0.3134,0.5428,0.7502,0.691
+Why is the trophallaxis process compared to a credit card system?,0.3101,0.1094,0.4474,0.0893,0.5274,0.4317,0.0051,0.2487
+"How does the ""credit card"" system benefit the overall health of the ant colony?",0.6381,0.5244,0.4935,0.4723,0.7182,0.5198,0.4074,0.3693
+How do ants use their bodies to create physical structures to overcome environmental obstacles?,0.5518,0.5513,0.1296,0.5718,0.2627,0.536,0.5658,0.3704
+What chemical mechanisms are used by ants to efficiently manage resources within their colonies?,0.7209,0.6034,0.281,0.696,0.3556,0.5694,0.6616,0.5512
+Describe a situation where ants' symbiotic relationship negatively impacts plant health and productivity.,0.5751,0.5967,0.155,0.5552,0.3623,0.4665,0.4997,0.3644
+"What is a key analogy that describes the ant colony's method of resource distribution, and how is it executed?",0.7109,0.7102,0.3787,0.7264,0.492,0.5299,0.5106,0.5026
+Could you detail how ants’ pheromone communication enhances their environmental adaptability?,0.7295,0.6571,0.1368,0.5279,0.3162,0.5247,0.7738,0.657

@@ -1,0 +1,10 @@
+Metrik,Wert
+Wörter im Originaltext,198
+Wörter im Gechunkten Text,185
+Anzahl der Chunks,9
+Durchschnittliche Wortanzahl pro Chunk,20.56
+Übereinstimmende Wörter (Intersection),178
+Union,205
+IoU,0.8683
+Nur im Original,"In practical terms, a clockwork cactus could be factors. This data could then be used to optimize that also even"
+Nur im Gechunkten,"Practical applications include being factors, optimizing and"

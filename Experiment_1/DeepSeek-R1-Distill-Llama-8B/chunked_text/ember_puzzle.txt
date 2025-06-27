@@ -1,0 +1,12 @@
+Okay, so I need to help the user split the given text into chunks based on semantic meaning. The user provided examples and instructions, so I should follow those closely. First, I'll read through the text carefully to understand the flow and identify where each new idea starts.
+
+The text is about the Ember Puzzle, describing its mechanics, objectives, and benefits. I'll look for transitions where a new idea begins. The first part introduces the puzzle and its basic rules, so that's the first chunk. The next part talks about the strategy and planning involved, which is a new idea, so that's the second chunk. Then, it mentions variations like different grid sizes and special tiles, which is a third chunk. Finally, it discusses the overall benefits and the puzzle's appeal, making that the fourth chunk. I need to make sure each chunk is separated by two newlines without using any tags or bullet points, just line breaks. I'll go through each sentence and group them accordingly, ensuring that each chunk is concise but covers a distinct idea. I should avoid changing or paraphrasing, just split them as the user instructed.
+</think>
+
+The Ember Puzzle is a captivating and challenging brain teaser that has gained popularity among puzzle enthusiasts. It consists of a grid of squares, each containing an ember that can be either lit or unlit. The objective of the puzzle is to light up all the embers by following a specific set of rules. When a player clicks on an ember, it toggles the state of that ember and its adjacent embers (both horizontally and vertically). This means that if an ember is lit, clicking on it will turn it off, and if it is unlit, clicking on it will light it up.  
+
+The challenge lies in figuring out the correct sequence of clicks to achieve the goal of lighting all the embers. The Ember Puzzle is not only a test of logical thinking and problem-solving skills but also a great way to improve one's ability to plan and strategize. It requires players to think several steps ahead and consider the impact of each move on the overall puzzle.  
+
+The puzzle can vary in difficulty, with larger grids and more complex patterns providing a greater challenge. Some versions of the Ember Puzzle also include obstacles or special tiles that add an extra layer of complexity.  
+
+Overall, the Ember Puzzle is a fun and engaging way to exercise the brain and develop critical thinking skills. Whether played casually or as part of a competitive puzzle-solving event, it offers a rewarding experience for players of all ages.

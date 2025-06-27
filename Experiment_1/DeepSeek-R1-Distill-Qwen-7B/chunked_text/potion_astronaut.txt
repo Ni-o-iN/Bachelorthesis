@@ -1,0 +1,23 @@
+<think>
+Okay, so I need to split this text into knowledge chunks based on semantic meaning. Each chunk should group together sentences that discuss the same idea or concept. I shouldn't change or paraphrase the original text, just insert line breaks to separate the chunks. Also, I shouldn't include any tags like <output> or similar. I should only return the final chunked text. I shouldn't number the chunks or use bullet points or any other list formatting. I need to insert exactly one blank line between each chunk. Chunks should be short, but they don't have to be because some sentences build on each other.
+
+Alright, let's start by reading through the text carefully. The first sentence talks about humanity venturing beyond Earth in the distant future. That seems like a good starting point for the first chunk. It mentions the Potion Astronaut, a unique figure combining alchemy with space exploration. So, the first chunk should include these details.
+
+Next, the astronaut is equipped with a special suit that allows brewing potions in zero gravity using rare ingredients. That's another part of the same idea, so it should be in the first chunk. The mission is to discover new elements and compounds for potions with extraordinary properties. That continues the same concept, so it should stay in the first chunk.
+
+Then, the mission faces challenges like navigating asteroid fields and encountering alien species. That's a challenge related to the astronaut's mission, so it should be grouped with the mission details. The "Stardust Elixir" is a potion granting temporary invincibility, made from star dust collected near a black hole. That's a specific potion, so it should be a separate chunk.
+
+The potion's significance is about revolutionizing medicine, technology, and understanding the universe. That's a broader impact, so it should be its own chunk. The astronaut is a symbol of innovation, courage, and possibilities beyond the world. That's a concluding statement about their impact, so another chunk.
+
+I need to make sure each chunk is concise but captures the main idea without being too long. Also, ensure that each chunk is separated by exactly one blank line. I shouldn't include any extra tags or formatting. Let me go through each sentence and group them accordingly.
+</think>
+
+In the distant future, humanity has ventured far beyond Earth, exploring the vast expanse of space. Among the many pioneers is the Potion Astronaut, a unique figure who combines the art of alchemy with space exploration. This astronaut is equipped with a special suit that allows them to brew potions in zero gravity, using rare ingredients found on distant planets and asteroids. The Potion Astronaut's mission is to discover new elements and compounds that can be used to create potions with extraordinary properties.
+
+These potions can heal injuries, enhance physical abilities, and even alter the fabric of space-time. The astronaut's journey is fraught with challenges, from navigating treacherous asteroid fields to encountering alien species with unknown intentions.
+
+One of the most significant discoveries made by the Potion Astronaut is the "Stardust Elixir," a potion that grants temporary invincibility. This elixir is made from the dust of a dying star, collected during a perilous mission to the edge of a black hole.
+
+The Potion Astronaut's adventures are not just about survival but also about pushing the boundaries of human knowledge and capability. As the Potion Astronaut continues their journey, they document their findings and share them with scientists back on Earth. Their work has the potential to revolutionize medicine, technology, and our understanding of the universe.
+
+The Potion Astronaut is a symbol of innovation, courage, and the endless possibilities that lie beyond our world.

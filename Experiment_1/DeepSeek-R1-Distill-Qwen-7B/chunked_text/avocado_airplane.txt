@@ -1,0 +1,23 @@
+<think>
+Okay, so I need to split this text into knowledge chunks based on semantic meaning. Each chunk should group together sentences that discuss the same idea or concept. I shouldn't change or paraphrase the original text, just insert line breaks to separate the chunks. Also, I shouldn't include any tags like <output> or similar. I should only return the final chunked text. I shouldn't number the chunks or use bullet points or any other list formatting. I need to insert exactly one blank line between each chunk. Chunks should be short, but they don't have to be because some sentences build on each other and can be different topics.
+
+Alright, let's look at the given text about the Avocado Airplane. The first sentence introduces it as a revolutionary concept in aviation for sustainability. The next sentences talk about the biofuel derived from avocados. Then, it mentions the team that conceived it, the idea to create a greener alternative to traditional jet fuel. So that's the first chunk: the concept and its background.
+
+Next, the design features: sleek, aerodynamic design for fuel efficiency. Then, how the biofuel is produced from avocado waste. So that's the second chunk: design and fuel source.
+
+Then, the engines are modified for optimal performance and environmental impact. That's part of the same idea, so it stays with the previous chunk. Then, the materials used are lightweight and biodegradable, reducing weight and enhancing fuel efficiency. That continues the design and materials section.
+
+The interior has seating and air filtration, focusing on passenger comfort. So that's the next chunk: interior features.
+
+Finally, the conclusion about sustainable aviation and the importance of such innovations. That's the last chunk.
+
+I need to make sure each chunk is separated by a blank line and that I don't add any extra formatting. Let me structure it accordingly.
+</think>
+
+The Avocado Airplane is a revolutionary concept in the aviation industry, designed to promote sustainability and reduce carbon emissions. This innovative aircraft is powered by biofuel derived from avocados, a renewable and eco-friendly energy source. The idea was conceived by a team of environmental engineers and aviation experts who aimed to create a greener alternative to traditional jet fuel.
+
+The Avocado Airplane features a sleek, aerodynamic design that maximizes fuel efficiency. The biofuel is produced from avocado pits and skins, which are typically discarded as waste. By utilizing these by-products, the Avocado Airplane not only reduces waste but also provides a sustainable energy solution.
+
+The aircraft's engines have been specially modified to run on this unique biofuel, ensuring optimal performance and minimal environmental impact. In addition to its eco-friendly fuel, the Avocado Airplane is constructed using lightweight, biodegradable materials. These materials reduce the overall weight of the aircraft, further enhancing its fuel efficiency.
+
+The interior of the plane is designed with passenger comfort in mind, featuring spacious seating and advanced air filtration systems that improve air quality during flights. The Avocado Airplane represents a significant step forward in the quest for sustainable aviation. As the world continues to grapple with the effects of climate change, innovations like this are crucial in reducing our carbon footprint and preserving the environment for future generations.

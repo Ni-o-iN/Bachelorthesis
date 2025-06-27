@@ -1,0 +1,22 @@
+Okay, so I need to help the user with this task. The task is to split a given text into chunks that group together sentences discussing the same idea or concept. I remember from the examples provided that the goal is to maintain the original text without paraphrasing and just insert line breaks. The user emphasized not to use any tags or list formatting, just plain text with single line breaks between chunks.
+
+First, I'll read through the provided text carefully. The text is about neon jellyfish, their bioluminescence, how it works, its purposes, and their habitat and research implications. I need to identify where the ideas change.
+
+The first part introduces neon jellyfish and their bioluminescence. Then it goes into how it's produced, the colors, and its uses for defense, attracting prey, and communication. That seems like a solid first chunk.
+
+Next, the text shifts to where they're found in the ocean and their diet. Then it moves on to their resilience and survival in different environments. That's a clear change, so that's the second chunk.
+
+Finally, it talks about the study of jellyfish and the applications of their bioluminescent proteins in medical and tech fields. That's the third chunk.
+
+I should make sure each chunk is concise but not too short. I'll split the text at the points where the main idea changes. I'll add a blank line between each chunk as per the instructions. Let me check if the chunks make sense on their own and flow well. I think this should work.
+</think>
+
+Neon jellyfish, also known as bioluminescent jellyfish, are mesmerizing marine creatures that captivate observers with their glowing appearance. These jellyfish produce light through a chemical reaction called bioluminescence, which occurs in specialized cells known as photocytes.  
+
+The light emitted can vary in color, including shades of blue, green, and even red, depending on the species. Bioluminescence serves several purposes for neon jellyfish.  
+
+It can be used as a defense mechanism to deter predators, as the sudden flash of light can startle or confuse them. Additionally, bioluminescence aids in attracting prey, as the light can lure small organisms towards the jellyfish's tentacles. Some species also use bioluminescence for communication and mating purposes.  
+
+Neon jellyfish are found in various oceanic regions, from shallow coastal waters to the deep sea. They thrive in environments where they can find ample food sources, such as plankton and small fish. Despite their delicate appearance, jellyfish are resilient creatures that have adapted to survive in diverse marine habitats.  
+
+The study of neon jellyfish has provided valuable insights into the mechanisms of bioluminescence and its applications. Researchers are exploring the potential uses of bioluminescent proteins in medical and technological fields, such as imaging techniques and biosensors.

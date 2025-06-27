@@ -1,0 +1,10 @@
+Metrik,Wert
+Wörter im Originaltext,201
+Wörter im Gechunkten Text,178
+Anzahl der Chunks,4
+Durchschnittliche Wortanzahl pro Chunk,44.50
+Übereinstimmende Wörter (Intersection),178
+Union,201
+IoU,0.8856
+Nur im Original,"The dance is characterized by its graceful, sweeping movements and the use of daggers as props, which dancers wield with precision and artistry."
+Nur im Gechunkten,

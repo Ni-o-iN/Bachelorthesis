@@ -1,0 +1,11 @@
+Frage,Similarity (Gesamter Text),Similarity (Chunk 1),Similarity (Chunk 2),Similarity (Chunk 3)
+What is the process called where ants share food by regurgitating it to feed other members of the colony?,0.663,0.6515,0.4384,0.516
+How do ants communicate and coordinate their activities within the colony?,0.7256,0.6724,0.3454,0.722
+What role do pheromones play in an ant colony's resource management?,0.7525,0.625,0.3166,0.7953
+Why is the trophallaxis process compared to a credit card system?,0.3101,0.3133,0.5668,0.1045
+"How does the ""credit card"" system benefit the overall health of the ant colony?",0.6381,0.7218,0.7774,0.4358
+How do ants use their bodies to create physical structures to overcome environmental obstacles?,0.5518,0.5097,0.2648,0.5889
+What chemical mechanisms are used by ants to efficiently manage resources within their colonies?,0.7209,0.6715,0.3436,0.7072
+Describe a situation where ants' symbiotic relationship negatively impacts plant health and productivity.,0.5751,0.564,0.3397,0.5385
+"What is a key analogy that describes the ant colony's method of resource distribution, and how is it executed?",0.7109,0.7542,0.4737,0.5701
+Could you detail how ants’ pheromone communication enhances their environmental adaptability?,0.7295,0.5569,0.2976,0.8255

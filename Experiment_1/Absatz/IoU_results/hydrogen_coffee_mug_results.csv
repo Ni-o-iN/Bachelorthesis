@@ -1,0 +1,10 @@
+Metrik,Wert
+Wörter im Originaltext,201
+Wörter im Gechunkten Text,202
+Anzahl der Chunks,3
+Durchschnittliche Wortanzahl pro Chunk,67.33
+Übereinstimmende Wörter (Intersection),200
+Union,203
+IoU,0.9852
+Nur im Original,"eco-friendly,"
+Nur im Gechunkten,"eco- friendly,"

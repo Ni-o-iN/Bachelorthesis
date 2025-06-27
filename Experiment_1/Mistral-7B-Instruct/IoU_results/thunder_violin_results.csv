@@ -1,0 +1,10 @@
+Metrik,Wert
+Wörter im Originaltext,240
+Wörter im Gechunkten Text,206
+Anzahl der Chunks,6
+Durchschnittliche Wortanzahl pro Chunk,34.33
+Übereinstimmende Wörter (Intersection),195
+Union,251
+IoU,0.7769
+Nur im Original,"instrument that the of a violin technology to produce a powerful and electrifying sound. Unlike conventional violins, the effects, such as particularly music, as it typically that of to Additionally, the appearance, with vibrant colors and unique shapes that make it visually striking on stage."
+Nur im Gechunkten,instrument. It violin technology. The effects like music. It The appearance.

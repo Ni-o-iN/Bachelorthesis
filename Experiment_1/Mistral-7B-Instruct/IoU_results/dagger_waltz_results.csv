@@ -1,0 +1,10 @@
+Metrik,Wert
+Wörter im Originaltext,201
+Wörter im Gechunkten Text,107
+Anzahl der Chunks,1
+Durchschnittliche Wortanzahl pro Chunk,107.00
+Übereinstimmende Wörter (Intersection),91
+Union,217
+IoU,0.4194
+Nur im Original,"dance that combines elements of traditional waltz with the dramatic flair of stage combat. century, this theaters where performers sought to blend the elegance of ballroom dancing with the excitement of swordplay. movements and the use of as props, which dancers wield artistry. synchrony, executing spins, dips, and lifts while maintaining the illusion of a choreographed duel. daggers, often blunt and designed for safety, performance. elaborate, reflecting the historical period or fantasy themes, enhancing the visual appeal of the dance. time, with a tempo that allows for both fluidity and dramatic pauses. performances, incorporating crescendos and decrescendos to match the intensity of the dancers' movements. experience for the audience, making"
+Nur im Gechunkten,dance... century... This theaters... movements... Dancers wield artistry... synchrony... daggers performance... elaborate... time... performances... experience... Making

@@ -1,0 +1,11 @@
+Frage,Similarity (Gesamter Text),Similarity (Chunk 1),Similarity (Chunk 2),Similarity (Chunk 3),Similarity (Chunk 4)
+What unique combination of skills does the Potion Astronaut possess?,0.6114,0.6164,0.6848,0.5917,0.6285
+What is the purpose of the Potion Astronaut's mission?,0.6885,0.66,0.7672,0.6649,0.7957
+Describe one of the significant discoveries made by the Potion Astronaut.,0.7721,0.7115,0.8268,0.7406,0.7794
+What challenges does the Potion Astronaut face during their journey?,0.6769,0.6779,0.7722,0.6648,0.7492
+How does the Potion Astronaut's work impact humanity back on Earth?,0.7153,0.6437,0.7298,0.6855,0.7441
+Which described explorer specifically combines space exploration with alchemical potion-making?,0.6743,0.6771,0.6947,0.6112,0.57
+What kind of special protective gear is utilized by this explorer to work in zero gravity environments?,0.2856,0.3742,0.2654,0.2813,0.1619
+What particular elixir mentioned was discovered at the boundary of a black hole?,0.4711,0.3825,0.3915,0.5559,0.2533
+What primary benefits do the potions developed by this figure aim to achieve?,0.4637,0.424,0.5567,0.4338,0.5192
+What underlying purpose drives this figure's explorations and discoveries?,0.2894,0.1402,0.2677,0.2566,0.3687

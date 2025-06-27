@@ -1,0 +1,11 @@
+Frage,Similarity (Gesamter Text),Similarity (Chunk 1),Similarity (Chunk 2),Similarity (Chunk 3),Similarity (Chunk 4),Similarity (Chunk 5),Similarity (Chunk 6),Similarity (Chunk 7),Similarity (Chunk 8),Similarity (Chunk 9)
+What materials are typically needed to create a paper eclipse?,0.7129,0.7239,0.8252,0.5177,0.2503,0.4575,0.3104,0.4195,0.7059,0.3213
+How does a paper eclipse model help students understand the mechanics of eclipses?,0.816,0.786,0.6082,0.6639,0.413,0.6062,0.4651,0.7415,0.6916,0.4853
+What is the difference between a solar and a lunar eclipse in the context of a paper model?,0.752,0.7071,0.5253,0.7477,0.4749,0.6728,0.5652,0.5486,0.6018,0.3097
+Why is the Sun usually represented as larger and yellow in a paper eclipse model?,0.6085,0.5717,0.4477,0.7003,0.3641,0.5094,0.3373,0.4486,0.509,0.2618
+How can the paper eclipse activity be adapted for different educational levels?,0.6571,0.6623,0.5708,0.4746,0.2395,0.4373,0.2731,0.6496,0.6526,0.4922
+What educational activity involves using simple materials to demonstrate the alignment of celestial bodies?,0.5161,0.4458,0.2999,0.3007,0.2788,0.3691,0.1941,0.6076,0.3796,0.6438
+What kind of eclipse can students simulate by placing the Earth between the Sun and the Moon in this described project?,0.7203,0.6342,0.4902,0.6543,0.519,0.6877,0.5264,0.6615,0.5287,0.4439
+What tangible learning objective does this described hands-on classroom project aim to teach students?,0.3203,0.3091,0.191,0.0839,0.1038,0.1125,0.0534,0.376,0.1886,0.332
+Which celestial phenomenon does this educational craft project primarily help to visualize and understand?,0.5411,0.466,0.2901,0.3936,0.3031,0.4285,0.3053,0.6309,0.4347,0.7138
+What specifically are students encouraged to creatively engage with through this described activity?,0.2983,0.2822,0.1618,0.1372,0.1159,0.1311,0.1186,0.3697,0.1841,0.2936

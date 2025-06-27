@@ -1,0 +1,10 @@
+Metrik,Wert
+Wörter im Originaltext,198
+Wörter im Gechunkten Text,194
+Anzahl der Chunks,11
+Durchschnittliche Wortanzahl pro Chunk,17.64
+Übereinstimmende Wörter (Intersection),193
+Union,199
+IoU,0.9698
+Nur im Original,"In an ant colony, worker"
+Nur im Gechunkten,Worker

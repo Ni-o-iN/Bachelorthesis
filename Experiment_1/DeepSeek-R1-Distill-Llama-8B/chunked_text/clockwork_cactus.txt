@@ -1,0 +1,24 @@
+Alright, I'm looking at the user's task. They want me to split a given text into knowledge chunks based on semantic meaning. Each chunk should group together sentences discussing the same idea. I need to avoid changing or paraphrasing, just insert line breaks.
+
+First, I'll read through the provided example to understand the structure. The user provided two examples where the output is a series of paragraphs, each separated by a blank line, without any tags or numbers.
+
+Looking at the input text about the Clockwork Cactus, I notice it's a single paragraph. I need to split it into logical sections. The first part introduces the concept, then discusses its origins, practical applications, and finally its artistic and environmental aspects.
+
+I should ensure each chunk is concise but covers a distinct idea. So, I'll split after the introduction, then after the historical context, and again after discussing practical uses and finally the artistic aspects. Each chunk should be a paragraph on its own, separated by a blank line.
+
+I need to make sure not to add any extra tags or formatting, just the text with line breaks. Let me go through each part step by step to ensure I capture each main idea clearly.
+</think>
+
+Clockwork Cactus is a fascinating concept that merges the natural world with mechanical innovation. Imagine a cactus, a resilient plant known for thriving in arid environments, combined with intricate clockwork mechanisms.  
+
+This hybrid creation could serve various purposes, from artistic installations to practical applications in technology and environmental monitoring.  
+
+The idea of a clockwork cactus can be traced back to steampunk aesthetics, where Victorian-era machinery is integrated with organic elements to create visually striking and functional objects.  
+
+These cacti could be designed to move, change shape, or even respond to environmental stimuli, making them interactive and engaging.  
+
+In practical terms, a clockwork cactus could be equipped with sensors to monitor soil moisture, temperature, and other environmental factors. This data could then be used to optimize irrigation systems, ensuring that plants receive the right amount of water and nutrients.  
+
+Additionally, the mechanical components could be powered by solar energy, making the system sustainable and eco-friendly.  
+
+Artists and designers might also use clockwork cacti as a medium to explore themes of nature versus technology, resilience, and adaptation. These creations could be displayed in galleries, public spaces, or even integrated into urban landscapes, offering a unique blend of art and science.

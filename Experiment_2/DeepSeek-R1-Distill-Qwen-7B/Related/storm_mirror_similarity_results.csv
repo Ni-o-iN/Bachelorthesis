@@ -1,0 +1,11 @@
+Frage,Similarity (Gesamter Text),Similarity (Chunk 1),Similarity (Chunk 2),Similarity (Chunk 3),Similarity (Chunk 4),Similarity (Chunk 5),Similarity (Chunk 6)
+"What is the Storm Mirror, and how is it formed?",0.6539,0.8418,0.7405,0.7311,0.5627,0.6082,0.6785
+How does the Storm Mirror affect visibility and navigation?,0.7115,0.7053,0.7969,0.6808,0.5924,0.715,0.6298
+What visual effects can the Storm Mirror amplify during a storm?,0.756,0.7776,0.8775,0.7161,0.6438,0.6553,0.6332
+Which factors influence the formation of a Storm Mirror?,0.648,0.7634,0.7017,0.8591,0.672,0.5344,0.6696
+Why is it important to study the Storm Mirror in meteorology?,0.6661,0.726,0.6987,0.7696,0.8071,0.5732,0.7695
+What meteorological phenomenon creates a reflective surface that impacts visibility significantly?,0.5723,0.5946,0.518,0.5873,0.4274,0.3718,0.3925
+Which described weather condition phenomenon can amplify visual effects such as lightning displays?,0.6245,0.5634,0.6485,0.5152,0.453,0.3705,0.3605
+What conditions favor the formation of this described reflective phenomenon?,0.3929,0.4933,0.4021,0.4704,0.293,0.2552,0.2785
+What hazards does this reflective phenomenon pose to navigation and wildlife?,0.6038,0.5086,0.5143,0.4638,0.3702,0.5746,0.451
+How does studying this meteorological phenomenon benefit forecasting models?,0.539,0.5035,0.4437,0.6108,0.6806,0.2876,0.4807

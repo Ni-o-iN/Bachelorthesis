@@ -1,0 +1,31 @@
+<think>
+Okay, so I need to split this text into knowledge chunks based on semantic meaning. Each chunk should group together sentences that discuss the same idea or concept. I shouldn't change or paraphrase the original text, just insert line breaks to separate the chunks. Also, I shouldn't include any tags like <output> or similar. I need to make sure each chunk is short, but some sentences might build on each other, so they can be a bit longer if necessary. I should separate each chunk with exactly one blank line. 
+
+First, I'll read through the entire text to understand the main topics. The text is about neon jellyfish, their characteristics, bioluminescence, and their applications. 
+
+Looking at the first part: "Neon jellyfish, also known as bioluminescent jellyfish, are mesmerizing marine creatures that captivate observers with their glowing appearance." That's the introduction. The next sentence explains what bioluminescence is: "These jellyfish produce light through a chemical reaction called bioluminescence, which occurs in specialized cells known as photocytes." 
+
+Then, it talks about the color variation: "The light emitted can vary in color, including shades of blue, green, and even red, depending on the species." 
+
+Next, it explains the purposes of bioluminescence: defense, attracting prey, and communication/mating. 
+
+Then, it describes where they live: "Neon jellyfish are found in various oceanic regions, from shallow coastal waters to the deep sea." 
+
+They mention their food sources: "They thrive in environments where they can find ample food sources, such as plankton and small fish." 
+
+Finally, it talks about their resilience and the research applications: "Despite their delicate appearance, jellyfish are resilient creatures that have adapted to survive in diverse marine habitats. The study of neon jellyfish has provided valuable insights into the mechanisms of bioluminescence and its applications. Researchers are exploring the potential uses of bioluminescent proteins in medical and technological fields, such as imaging techniques and biosensors."
+
+So, I can split this into chunks based on these sections. The first chunk covers the introduction and what bioluminescence is. The second chunk discusses the color variation. The third chunk explains the purposes of bioluminescence. The fourth chunk talks about their habitat and food sources. The fifth chunk covers their resilience and research applications.
+
+I need to make sure each chunk is separated by a blank line and doesn't include any tags. Also, keep them short but ensure that each idea is grouped properly. Let me structure them accordingly.
+</think>
+
+Neon jellyfish, also known as bioluminescent jellyfish, are mesmerizing marine creatures that captivate observers with their glowing appearance. These jellyfish produce light through a chemical reaction called bioluminescence, which occurs in specialized cells known as photocytes.
+
+The light emitted by neon jellyfish can vary in color, including shades of blue, green, and even red, depending on the species.
+
+Bioluminescence serves several purposes for neon jellyfish. It can be used as a defense mechanism to deter predators, as the sudden flash of light can startle or confuse them. Additionally, bioluminescence aids in attracting prey, as the light can lure small organisms towards the jellyfish's tentacles. Some species also use bioluminescence for communication and mating purposes.
+
+Neon jellyfish are found in various oceanic regions, from shallow coastal waters to the deep sea. They thrive in environments where they can find ample food sources, such as plankton and small fish.
+
+Despite their delicate appearance, jellyfish are resilient creatures that have adapted to survive in diverse marine habitats. The study of neon jellyfish has provided valuable insights into the mechanisms of bioluminescence and its applications. Researchers are exploring the potential uses of bioluminescent proteins in medical and technological fields, such as imaging techniques and biosensors.

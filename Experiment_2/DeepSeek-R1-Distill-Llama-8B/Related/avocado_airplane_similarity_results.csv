@@ -1,0 +1,11 @@
+Frage,Similarity (Gesamter Text),Similarity (Chunk 1),Similarity (Chunk 2),Similarity (Chunk 3),Similarity (Chunk 4),Similarity (Chunk 5),Similarity (Chunk 6),Similarity (Chunk 7)
+What is the primary energy source for the Avocado Airplane?,0.6658,0.765,0.5026,0.749,0.5322,0.7053,0.2571,0.6865
+How does the Avocado Airplane contribute to waste reduction?,0.7014,0.7118,0.527,0.7302,0.4971,0.7435,0.3768,0.7054
+What materials are used in the construction of the Avocado Airplane?,0.6261,0.6709,0.388,0.6829,0.3782,0.745,0.3802,0.6467
+What modifications have been made to the aircraft's engines?,0.3435,0.3044,0.2957,0.3097,0.5104,0.299,0.3694,0.3132
+How does the Avocado Airplane enhance passenger comfort?,0.6514,0.6938,0.3606,0.6524,0.4296,0.6946,0.6372,0.7075
+How do avocado airplanes address ecological sustainability different from coffee plantations?,0.6615,0.7285,0.4247,0.7058,0.4371,0.7157,0.3196,0.7258
+Describe the materials and fuel sources that make the Avocado Airplane innovative and eco-friendly.,0.8415,0.8306,0.5627,0.837,0.6147,0.8713,0.4275,0.8172
+Can you identify a biological symbiotic relationship similar in principle to avocado airplane's waste utilization process?,0.4797,0.5299,0.3551,0.5606,0.3458,0.5453,0.1955,0.4806
+Explain the sensory mechanisms or devices potentially integrated into innovative technologies like the avocado airplane for environmental monitoring.,0.5159,0.512,0.3614,0.4775,0.3419,0.4887,0.3395,0.5207
+How does the avocado airplane address passenger comfort and air quality during flights?,0.6688,0.6869,0.397,0.6406,0.4296,0.6653,0.6961,0.7079

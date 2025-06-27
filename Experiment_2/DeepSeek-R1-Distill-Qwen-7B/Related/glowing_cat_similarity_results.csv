@@ -1,0 +1,11 @@
+Frage,Similarity (Gesamter Text),Similarity (Chunk 1),Similarity (Chunk 2),Similarity (Chunk 3),Similarity (Chunk 4),Similarity (Chunk 5),Similarity (Chunk 6),Similarity (Chunk 7),Similarity (Chunk 8),Similarity (Chunk 9)
+What protein causes glowing cats to emit a green glow under ultraviolet light?,0.6503,0.7539,0.2755,0.6759,0.6385,0.5408,0.6127,0.5711,0.6298,0.5763
+How is the GFP gene inserted into the cat's DNA?,0.6409,0.5488,0.5116,0.5886,0.5842,0.2108,0.3127,0.5052,0.4307,0.3822
+What are the primary scientific purposes of creating glowing cats?,0.6351,0.7169,0.2092,0.723,0.7069,0.6809,0.9088,0.7621,0.7656,0.6296
+Does the glowing effect harm the cats or affect their health?,0.5301,0.6044,0.0672,0.5982,0.6058,0.9095,0.6743,0.6186,0.6065,0.5004
+How can glowing cats contribute to advancements in human health and medicine?,0.7101,0.7143,0.2772,0.6659,0.6937,0.6748,0.8246,0.8044,0.7229,0.7468
+Which genetically modified organism's bioluminescence involves using a virus as a vector to incorporate genes into its DNA?,0.6275,0.5327,0.3475,0.4916,0.4078,0.2088,0.3327,0.5034,0.4691,0.409
+What organism originally provided the Green Fluorescent Protein (GFP) gene used in genetic modification for research?,0.6103,0.5383,0.6543,0.4192,0.337,0.076,0.2496,0.4333,0.3459,0.4078
+How does genetic modification using GFP affect the overall health and behavior of the organism?,0.4936,0.3501,0.5746,0.2586,0.2475,0.142,0.1774,0.3934,0.1924,0.1881
+What primary scientific purpose does genetic modification serve in this context?,0.4372,0.2874,0.4033,0.1969,0.2522,0.0666,0.2811,0.4623,0.2703,0.1717
+Which genetically engineered organism discussed is particularly aimed at studying genetic expression and cellular processes?,0.4967,0.3307,0.4656,0.269,0.2547,-0.0028,0.2302,0.4466,0.3079,0.2393

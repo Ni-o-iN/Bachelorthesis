@@ -1,0 +1,11 @@
+Frage,Similarity (Gesamter Text),Similarity (Chunk 1),Similarity (Chunk 2),Similarity (Chunk 3),Similarity (Chunk 4),Similarity (Chunk 5),Similarity (Chunk 6),Similarity (Chunk 7),Similarity (Chunk 8),Similarity (Chunk 9)
+How does the hydrogen-powered heater in the coffee mug work?,0.7455,0.5251,0.7681,0.7892,0.6803,0.337,0.4866,0.3655,0.5248,0.7389
+What are the environmental benefits of using a hydrogen-powered heater?,0.5558,0.2571,0.4636,0.4778,0.8241,0.0875,0.1367,0.2128,0.1708,0.4764
+Describe the self-cleaning mechanism of the coffee mug.,0.6356,0.7765,0.6881,0.4375,0.153,0.7144,0.7349,0.5718,0.6261,0.6389
+What are the advantages of the self-cleaning feature for users?,0.4335,0.5164,0.4375,0.1164,0.1951,0.5946,0.4731,0.6775,0.3079,0.4149
+How can users control the temperature and cleaning cycles of the mug?,0.5896,0.6816,0.6077,0.4686,0.2095,0.5457,0.5564,0.4836,0.7364,0.5745
+Which technology mentioned uses hydrogen fuel cells producing water vapor as an eco-friendly byproduct?,0.5302,0.213,0.3558,0.4662,0.6425,0.081,0.2077,0.1222,0.1051,0.342
+What specific method is utilized by this innovation for self-cleaning purposes?,0.5336,0.5558,0.526,0.2714,0.2739,0.5023,0.6068,0.4871,0.3615,0.4777
+How does the product allow users to manage temperature and cleanliness conveniently?,0.4675,0.489,0.4024,0.2791,0.3586,0.3264,0.4169,0.4115,0.4873,0.4005
+In what context is sustainability emphasized alongside convenience and hygiene?,0.3882,0.3425,0.2825,0.1462,0.3693,0.2109,0.2349,0.3053,0.2189,0.3111
+Which invention described involves ultrasonic waves to eliminate residue and bacteria?,0.4195,0.3992,0.3037,0.1732,0.2188,0.2085,0.5708,0.32,0.1952,0.2695

@@ -1,0 +1,11 @@
+Frage,Similarity (Gesamter Text),Similarity (Chunk 1),Similarity (Chunk 2),Similarity (Chunk 3),Similarity (Chunk 4),Similarity (Chunk 5),Similarity (Chunk 6)
+What are the main components that differentiate the Thunder Violin from a conventional violin?,0.7571,0.8079,0.3591,0.8352,0.6953,0.7989,0.7417
+In which musical genres is the Thunder Violin particularly popular?,0.6838,0.7646,0.4402,0.6896,0.6094,0.7522,0.7666
+How does the design of the Thunder Violin help to reduce feedback?,0.7683,0.7239,0.4358,0.8213,0.6852,0.7242,0.6769
+What is the role of the built-in pickup system in the Thunder Violin?,0.7251,0.7096,0.4381,0.8076,0.6195,0.7064,0.6727
+Why is the Thunder Violin considered versatile for musicians?,0.7301,0.7893,0.5202,0.7617,0.6309,0.8317,0.8338
+Which musical instrument described incorporates electronic components to produce amplified and varied sonic effects?,0.6378,0.4684,0.6499,0.4758,0.6257,0.3699,0.4085
+What genres particularly benefit from the described modernized musical instrument?,0.5493,0.4134,0.6522,0.4075,0.5124,0.4096,0.4428
+How does the described instrument's design help in reducing feedback and improving sound quality?,0.5524,0.3757,0.5383,0.4843,0.5095,0.3443,0.3619
+What flexibility does the described instrument provide musicians between different modes of play?,0.515,0.3588,0.586,0.4138,0.4299,0.4237,0.3709
+Which instrument allows musicians to experiment extensively with electronic sound effects such as reverb and distortion?,0.5669,0.3863,0.6519,0.3575,0.5313,0.3051,0.3963

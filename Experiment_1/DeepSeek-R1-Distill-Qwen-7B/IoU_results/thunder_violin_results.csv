@@ -1,0 +1,10 @@
+Metrik,Wert
+Wörter im Originaltext,240
+Wörter im Gechunkten Text,209
+Anzahl der Chunks,5
+Durchschnittliche Wortanzahl pro Chunk,41.80
+Übereinstimmende Wörter (Intersection),208
+Union,241
+IoU,0.8631
+Nur im Original,"This instrument is particularly popular among musicians who perform genres like rock, pop, and electronic music, as it offers a wide range of sonic possibilities that can enhance their performances. Additionally, the"
+Nur im Gechunkten,The

@@ -1,0 +1,10 @@
+Metrik,Wert
+Wörter im Originaltext,188
+Wörter im Gechunkten Text,188
+Anzahl der Chunks,2
+Durchschnittliche Wortanzahl pro Chunk,94.00
+Übereinstimmende Wörter (Intersection),186
+Union,190
+IoU,0.9789
+Nur im Original,"Azteca sericeasur,"
+Nur im Gechunkten,"*Azteca sericea*,"

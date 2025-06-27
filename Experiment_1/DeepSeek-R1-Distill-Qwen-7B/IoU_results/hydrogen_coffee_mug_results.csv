@@ -1,0 +1,10 @@
+Metrik,Wert
+Wörter im Originaltext,201
+Wörter im Gechunkten Text,170
+Anzahl der Chunks,3
+Durchschnittliche Wortanzahl pro Chunk,56.67
+Übereinstimmende Wörter (Intersection),159
+Union,212
+IoU,0.7500
+Nur im Original,is equipped with cleaning a combination of the mug effectively ensuring a spotless interior. feature not only but also individuals who want to enjoy their coffee without the hassle of manual cleaning. that allows you to control the cycles with ease. you're
+Nur im Gechunkten,has it keeping the interior spotless. and individuals. for controlling cycles.

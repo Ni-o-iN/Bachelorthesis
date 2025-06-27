@@ -1,0 +1,11 @@
+Frage,Similarity (Gesamter Text),Similarity (Chunk 1),Similarity (Chunk 2),Similarity (Chunk 3),Similarity (Chunk 4),Similarity (Chunk 5)
+What is the chemical reaction responsible for the light production in neon jellyfish?,0.7189,0.7488,0.6631,0.575,0.4983,0.645
+How does bioluminescence benefit neon jellyfish in terms of defense?,0.8278,0.8083,0.7872,0.8067,0.6164,0.7406
+In what types of oceanic regions can neon jellyfish be found?,0.5458,0.6172,0.5715,0.4234,0.7774,0.453
+What are some potential applications of bioluminescent proteins in research?,0.5759,0.44,0.4266,0.5126,0.1677,0.6536
+How do neon jellyfish attract prey using bioluminescence?,0.8193,0.8186,0.7606,0.7818,0.6083,0.7214
+What is the biological phenomenon described that serves multiple functions including defense and attracting prey?,0.308,0.2768,0.2264,0.4415,0.1831,0.1667
+Which organism discussed utilizes photocytes in a biochemical process for survival in marine environments?,0.5409,0.4779,0.3806,0.3934,0.3457,0.4144
+What colors can the bioluminescent reaction mentioned typically emit?,0.5518,0.5285,0.6549,0.4369,0.1802,0.5723
+"In the described marine organisms, what are the main purposes of bioluminescent capabilities?",0.7504,0.672,0.6681,0.7323,0.4272,0.6839
+Which marine creature's biological functions are being explored for potential medical and technological applications?,0.5402,0.4269,0.3517,0.4572,0.3374,0.4519

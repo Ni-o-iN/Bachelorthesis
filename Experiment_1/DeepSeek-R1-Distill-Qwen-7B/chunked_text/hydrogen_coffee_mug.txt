@@ -1,0 +1,23 @@
+<think>
+Okay, so I need to split this text into knowledge chunks based on semantic meaning. Each chunk should group together sentences that discuss the same idea or concept. I shouldn't change or paraphrase the original text, just insert line breaks to separate the chunks. Also, I shouldn't include any tags like <output> or similar. I need to make sure each chunk is short, but some sentences might build on each other, so they can be a bit longer if necessary. I should separate each chunk with exactly one blank line. 
+
+First, I'll read through the entire text to understand the main points. The text is about a self-cleaning coffee mug with a hydrogen-powered heater. It mentions the mug's features: self-cleaning mechanism, hydrogen fuel cells for heating, eco-friendliness, and its design. 
+
+I'll start by identifying the main ideas. The first part talks about the mug's purpose and how it works. Then it goes into the self-cleaning feature, followed by the eco-friendly aspect, and finally the design. 
+
+I'll break it down sentence by sentence. The first few sentences introduce the mug and its main features. Then each subsequent sentence adds more details about each feature. I'll make sure each chunk captures a specific aspect without overlapping too much.
+
+I need to ensure that each chunk is coherent and doesn't mix different features. For example, one chunk could be about the self-cleaning mechanism, another about the hydrogen-powered heater, and another about the eco-friendliness and design. 
+
+I'll also check that I'm not including any extra information or changing the original text. It's important to keep it as is, just separating the ideas. 
+
+Finally, I'll make sure there's exactly one blank line between each chunk and that the chunks are labeled correctly without any additional tags. 
+
+I think I've got a good plan. Now I'll proceed to split the text accordingly.
+</think>
+
+Imagine a coffee mug that not only keeps your beverage at the perfect temperature but also cleans itself! The self-cleaning coffee mug with a hydrogen-powered heater is a revolutionary product designed to enhance your coffee-drinking experience. This innovative mug uses hydrogen fuel cells to generate heat, ensuring your coffee stays warm for hours. The hydrogen-powered heater is eco-friendly, producing only water vapor as a byproduct, making it a sustainable choice for environmentally conscious consumers.
+
+The self-cleaning feature is equally impressive. The mug has a built-in mechanism that activates after each use. Using ultrasonic waves and a small amount of water, it removes coffee residue and bacteria, keeping the interior spotless. This saves time and promotes hygiene, making it ideal for busy individuals.
+
+The mug's design is sleek and modern, with a user-friendly interface for controlling temperature and cleaning cycles. Whether at home, in the office, or on the go, this self-cleaning coffee mug with a hydrogen-powered heater is the perfect companion for coffee lovers who value convenience, sustainability, and cleanliness.

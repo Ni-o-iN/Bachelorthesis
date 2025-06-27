@@ -1,0 +1,10 @@
+Metrik,Wert
+Wörter im Originaltext,256
+Wörter im Gechunkten Text,256
+Anzahl der Chunks,5
+Durchschnittliche Wortanzahl pro Chunk,51.20
+Übereinstimmende Wörter (Intersection),256
+Union,256
+IoU,1.0000
+Nur im Original,
+Nur im Gechunkten,
