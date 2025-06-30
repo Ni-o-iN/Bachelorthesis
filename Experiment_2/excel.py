@@ -1,17 +1,17 @@
 import os
 import pandas as pd
 
-FILE = "thunder_violin_unrelated"
+FILE = "paper_eclipse"
 
 # Liste der konkreten CSV-Dateipfade
 files = [
-    f"Absatz/Unrelated/{FILE}_similarity_results.csv",
-    f"DeepSeek-R1-Distill-Llama-8B/Unrelated/{FILE}_similarity_results.csv",
-    f"DeepSeek-R1-Distill-Qwen-7B/Unrelated/{FILE}_similarity_results.csv",
-    f"Mistral-7B-Instruct/Unrelated/{FILE}_similarity_results.csv",
-    f"Qwen2.5-3B-Instruct/Unrelated/{FILE}_similarity_results.csv",
-    f"Qwen2.5-7B-Instruct/Unrelated/{FILE}_similarity_results.csv",
-    f"Token/Unrelated/{FILE}_similarity_results.csv"
+    f"Absatz/Related/{FILE}_similarity_results.csv",
+    f"DeepSeek-R1-Distill-Llama-8B/Related/{FILE}_similarity_results.csv",
+    f"DeepSeek-R1-Distill-Qwen-7B/Related/{FILE}_similarity_results.csv",
+    f"Mistral-7B-Instruct/Related/{FILE}_similarity_results.csv",
+    f"Qwen2.5-3B-Instruct/Related/{FILE}_similarity_results.csv",
+    f"Qwen2.5-7B-Instruct/Related/{FILE}_similarity_results.csv",
+    f"Token/Related/{FILE}_similarity_results.csv"
 ]
 
 # Liste für alle Daten
@@ -38,7 +38,7 @@ for file_path in files:
 # Zusammenführen und speichern
 if all_data:
     combined_df = pd.concat(all_data, ignore_index=True)
-    combined_df.to_excel(f"Unrelated_Excel/{FILE}.xlsx", index=False)
+    combined_df.to_excel(f"Vergleiche/{FILE}.xlsx", index=False)
     print(f"Excel-Datei '{FILE}.xlsx' wurde erfolgreich erstellt.")
 else:
     print("Keine Daten gefunden. Bitte überprüfe die Dateipfade.")

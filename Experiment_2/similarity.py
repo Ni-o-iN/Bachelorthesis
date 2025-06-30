@@ -3,7 +3,7 @@ import pandas as pd
 from sentence_transformers import SentenceTransformer, util
 import re
 
-FILE = "glowing_cat"
+FILE = "paper_eclipse"
 MODEL_NAME = "all-mpnet-base-v2"
 
 def read_text_file(path):
@@ -60,7 +60,7 @@ def process_file(file_name):
     # Ergebnisse speichern
     df = pd.DataFrame(results)
     df.to_csv(f"DeepSeek-R1-Distill-Qwen-7B/Unrelated/{FILE}_unrelated_similarity_results.csv", index=False, encoding="utf-8")
-    print(f"Ergebnisse gespeichert unter: DeepSeek-R1-Distill-Qwen-7B/{file_name}_similarity_results.csv")
+    print(f"Ergebnisse gespeichert unter: DeepSeek-R1-Distill-Qwen-7B/Unrelated/{FILE}_unrelated_similarity_results.csv")
 
 # === Ausführung ===
 if __name__ == "__main__":
