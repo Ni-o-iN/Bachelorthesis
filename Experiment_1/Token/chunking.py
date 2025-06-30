@@ -1,6 +1,7 @@
 import fitz 
+import re
 
-FILE = "thunder_violin"
+FILE = "hydrogen_coffee_mug"
 
 # PDF einlesen und Text extrahieren
 def extract_text_from_pdf(pdf_path):
@@ -16,16 +17,24 @@ def chunk_text(text, chunk_size):
     chunks = [" ".join(words[i:i + chunk_size]) for i in range(0, len(words), chunk_size)]
     return chunks
 
+def fix_hyphen_spacing(text):
+    text = re.sub(r"-\s+", "-", text)
+    text = re.sub(r"/\s+", "/", text)
+    return text
+
 # Hauptfunktion
 def main():
-    pdf_path = (f"../Experiment_1/chunked_text/{FILE}.txt")
+    pdf_path = (f"../all_pdfs/{FILE}.pdf")
     chunk_size = 80  # Anzahl der Wörter pro Chunk
     text = extract_text_from_pdf(pdf_path)
     chunks = chunk_text(text, chunk_size)
 
-    with open(f"./token_length_chunked_text/{FILE}.txt", "w") as datei:
+    
+    with open(f"chunked_text/{FILE}.txt", "w") as datei:
         for chunk in chunks:
-            datei.write(chunk + "\n\n")
+            cleaned_chunk = fix_hyphen_spacing(chunk)
+            datei.write(cleaned_chunk + "\n\n")
+
 
 
 if __name__ == "__main__":
