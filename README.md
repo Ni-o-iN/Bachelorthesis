@@ -131,6 +131,6 @@ Python · PyMuPDF · Sentence Transformers (`all-mpnet-base-v2`) · pandas · Hu
 
 ## Thesis
 
-The full thesis is available as a PDF: [Bachelorthesis.pdf](thesis/Bachelorthesis.pdf)
+The full thesis is available as a PDF: [Bachelorthesis.pdf]([thesis/Bachelorthesis.pdf](https://github.com/Ni-o-iN/Bachelorthesis/blob/master/Bachelorthesis.pdf))
 
 Licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
